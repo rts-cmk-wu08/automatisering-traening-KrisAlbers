@@ -1,0 +1,14 @@
+.adv-article {
+    display: flex;
+    flex-direction: column;
+    &__icon{
+        width: 2rem;
+    } 
+    &__header{
+        margin: 3rem 0 2rem 0;
+    }
+    &__text{
+        margin-top: auto;
+        color: rgb(181, 177, 177);
+    }
+}
